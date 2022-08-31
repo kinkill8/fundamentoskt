@@ -1,0 +1,8 @@
+fun main() {
+    var saludo = "hola " //declaracion de variable de tipo string//
+    var numero = 1 //declatracion de variable de tipo int//
+    
+    var cadena = saludo + numero //variable en la que se concatena la variable saludo con la variable numero//
+    
+    println(cadena) //imprimir por consola la variable cadena//
+}
