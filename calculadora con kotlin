@@ -1,0 +1,19 @@
+fun main() {
+    var numero1 = 1
+    var numero2 = 2
+    
+    println("bienvenido a su calculadora preferida")
+    println("esta es una prueba demo")
+    
+    var resultado1 = numero1 + numero2
+    println("1 mas 2 es igual a = $resultado1")
+    
+    var resultado2 = numero1 - numero2
+    println("1 menos 2 es igual a = $resultado2")
+    
+    var resultado3 = numero1 / numero2
+    println("1 dividido en 2 es igual a = $resultado3")
+    
+    var resultado4 = numero1 * numero2
+    println("1 por 2 es igual a = $resultado4")
+}
