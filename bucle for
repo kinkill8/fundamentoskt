@@ -1,0 +1,5 @@
+fun main() {
+    //bucle for//
+    
+    for (char in 'a'..'z') print(char) //recorre desde a hasta z imprimiendo el resultado por pantalla//
+}
